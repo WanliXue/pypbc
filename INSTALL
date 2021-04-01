@@ -9,7 +9,9 @@ from package source see the GMP site.
 
 To install GMP in Debian / Ubuntu:
 
-	sudo apt-get install libgmp-dev
+	#sudo apt-get install libgmp-dev
+	
+	sudo apt-get install libgmp3-dev
 
 For an RPM installation with YUM:
 
